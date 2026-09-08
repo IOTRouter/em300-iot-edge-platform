@@ -2,11 +2,11 @@
 EM300 (FlowPLC) is a modular industrial edge controller designed for data acquisition, protocol conversion, and PLC integration.
 It integrates edge computing, visual programming, industrial communication, networking, and scalable I/O expansion into a unified platform for industrial automation systems.
 
-<b>Key Values</b>
+## Key Values
 
 EM300 eliminates the limitations of traditional industrial gateways such as fixed I/O architecture, fragmented control systems, and complex multi-device integration by providing a unified modular edge computing platform for industrial connectivity and control.
 
-<b>Core Functions</b>
+## Core Functions
 
   1) Edge Computing
   Enables real-time industrial data acquisition, preprocessing, and local processing for control logic execution.
@@ -28,12 +28,24 @@ EM300 eliminates the limitations of traditional industrial gateways such as fixe
   5) Modular I/O Expansion
   EM300 supports flexible industrial I/O expansion through multiple modular units with configurable combinations, compact blade-style installation, millisecond-level response, and scalability of up to 16 modules.
 
-<b>Hardware Interfaces</b><br>
+## Hardware Interfaces
 4× RS485 / 2× DI / 2× DO / 1× USB 2.0 / 1× WAN / 2× LAN
 
 <b>Typical Applications</b><br>
 EM300 is widely used in industrial automation and IoT systems, including:
 Smart manufacturing systems / Industrial IoT data infrastructure / Energy monitoring and management systems / Building automation (BMS) / PLC and CNC integration environments / Distributed industrial control systems
 
-<b>Official Product Page</b><br>
+## Documentation
+
+- [Getting Started with EM Series Edge Controllers](getting-started.md)
+- [Modbus to IEC104 Server Configuration](modbus-to-iec104-server.md)
+- [EM300 Overview](overview.md)
+- [Product Specification](product_specification.md)
+
+## Practical Guides
+
+- [How to Connect the EM Series Edge Controller](getting-started.md)
+- [Configure EM300 as a Modbus to IEC104 Gateway](modbus-to-iec104-server.md)
+
+## Official Product Page
 https://en.iotrouter.com/product/em300-modular-industrial-edge-controller/

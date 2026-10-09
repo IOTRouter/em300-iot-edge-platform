@@ -39,6 +39,7 @@ Smart manufacturing systems / Industrial IoT data infrastructure / Energy monito
 
 - [Getting Started with EM Series Edge Controllers](getting-started.md)
 - [Modbus to IEC104 Server Configuration](modbus-to-iec104-server.md)
+- [IEC104 Client Configuration Guide](iec104-client-configuration.md)
 - [EM300 Overview](overview.md)
 - [Product Specification](product_specification.md)
 

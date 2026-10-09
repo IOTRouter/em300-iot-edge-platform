@@ -47,6 +47,7 @@ Smart manufacturing systems / Industrial IoT data infrastructure / Energy monito
 
 - [How to Connect the EM Series Edge Controller](getting-started.md)
 - [Configure EM300 as a Modbus to IEC104 Gateway](modbus-to-iec104-server.md)
+- [IEC104 Client Gateway: Connect Industrial Devices to SCADA](https://en.iotrouter.com/iec104-client-gateway-connect-industrial-devices-to-scada-without-plc/)
 
 ## Official Product Page
 https://en.iotrouter.com/product/em300-modular-industrial-edge-controller/

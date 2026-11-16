@@ -17,7 +17,8 @@ This directory contains product-view, installation-dimension and wiring images f
 
 ### Front View
 
-![D1600 Front View](front-view.png)
+![D1600 Front View](Picture/front-view.png)
+
 
 ### Rear View
 

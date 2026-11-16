@@ -22,19 +22,19 @@ This directory contains product-view, installation-dimension and wiring images f
 
 ### Rear View
 
-![D1600 Rear View](rear-view.png)
+![D1600 Rear View](Picture/rear-view.png)
 
 ### NPN Input Wiring
 
-![D1600 NPN Wiring](npn-wiring-diagram.png)
+![D1600 NPN Wiring](Picture/npn-wiring-diagram.png)
 
 ### PNP Input Wiring
 
-![D1600 PNP Wiring](pnp-wiring-diagram.png)
+![D1600 PNP Wiring](Picture/pnp-wiring-diagram.png)
 
 ### Product Dimensions
 
-![D1600 Dimensions](dimensions.png)
+![D1600 Dimensions](Picture/dimensions.png)
 
 ## Related Documentation
 
